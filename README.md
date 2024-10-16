@@ -6,6 +6,3 @@ I'm a data analyst(intern) with experience in data visualization, statistical an
 - 🌟 HackerRank 4-star badge in SQL
 - 💼 Worked as a CRM Executive @Posiflex managing sales operations using Odoo CRM software
 - 💬 Ask me about Anything SQL & Python
-
-**Connect with me:**
-👔 [Connect with me on LinkedIn](linkedin.com/in/bhavani-sree-986743321)
