@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Bhavani sree
-I'm a data analyst(intern) with experience in data visualization, statistical analysis, and machine learning. I enjoy working on projects that turn raw data into actionable insights.
+- 👋 Hi, I’m Bhavani Sree! I'm a data analyst intern with a passion for data visualization, statistical analysis, and machine learning. I thrive on transforming raw data into actionable insights through engaging projects
 - 🔭 Currently working on project :"Posture Correction Analysis"
 - 🌱 Learning more about: Data & Data Science
 - 🏆 1st Place in National-Level Hackathon(stage-1) by Imarticus Learning
